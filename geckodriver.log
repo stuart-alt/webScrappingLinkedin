@@ -221,3 +221,98 @@ JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILU
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+geckodriver: error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver [FLAGS] [OPTIONS]
+
+For more information try --help
+
+geckodriver: error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver [FLAGS] [OPTIONS]
+
+For more information try --help
+
+geckodriver: error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver [FLAGS] [OPTIONS]
+
+For more information try --help
+
+geckodriver: error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver [FLAGS] [OPTIONS]
+
+For more information try --help
+
+1639929205444	geckodriver	INFO	Listening on 127.0.0.1:64497
+1639929208507	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64498" "-no-remote" "-profile" "C:\\Users\\stuar\\AppData\\Local\\Temp\\rust_mozprofileEvvEEp"
+1639929209281	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\stuar\\AppData\\Local\\Temp\\rust_mozprofileEvvEEp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64498/devtools/browser/12992ba0-c959-4243-ac55-45470efb3d86
+1639929212969	Marionette	INFO	Listening on port 64510
+1639929213369	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2qe2ch488m9ek7yzy348udmwd, line 5061: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/d4qvw73ihf81040ruaz0iwnx5, line 6376: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/88o4palwrue1jttx4lfe7yytx, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4ualna7gduk26gk3m62pxpzfz, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/mj6o38bh5vse4sppxq0272ao, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/f0okb9g961vhmjo8xb3n1nhp7, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ey3jwa0mbi5zyp94zg87prt65, line 6: unreachable code after return statement
+1639929242201	Marionette	INFO	Stopped listening on port 64510
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639929932067	geckodriver	INFO	Listening on 127.0.0.1:49245
+1639929935118	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49246" "-no-remote" "-profile" "C:\\Users\\stuar\\AppData\\Local\\Temp\\rust_mozprofileRxVPws"
+1639929935758	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\stuar\\AppData\\Local\\Temp\\rust_mozprofileRxVPws\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49246/devtools/browser/6b000731-e965-4c7b-9241-5edb5255d6ed
+1639929939388	Marionette	INFO	Listening on port 49254
+1639929939892	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639929955717	Marionette	INFO	Stopped listening on port 49254
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639929970960	geckodriver	INFO	Listening on 127.0.0.1:49402
+1639929974015	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49403" "-no-remote" "-profile" "C:\\Users\\stuar\\AppData\\Local\\Temp\\rust_mozprofileAAqgsH"
+1639929974633	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\stuar\\AppData\\Local\\Temp\\rust_mozprofileAAqgsH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49403/devtools/browser/7fb06aad-c52a-4d4d-87b4-216d4e4d9e11
+1639929978045	Marionette	INFO	Listening on port 49415
+1639929978200	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/d4qvw73ihf81040ruaz0iwnx5, line 6376: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4ualna7gduk26gk3m62pxpzfz, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/88o4palwrue1jttx4lfe7yytx, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/f0okb9g961vhmjo8xb3n1nhp7, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ey3jwa0mbi5zyp94zg87prt65, line 6: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/54bet6t7aknjv8omj33d2ymvu, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/btk0wg31wplna9r3bfeuciq6i, line 6: unreachable code after return statement
+[Child 12344, MediaDecoderStateMachine #1] WARNING: 1b2469f8200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://static-exp1.licdn.com/sc/h/d4qvw73ihf81040ruaz0iwnx5, line 6376: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/88o4palwrue1jttx4lfe7yytx, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4ualna7gduk26gk3m62pxpzfz, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/mj6o38bh5vse4sppxq0272ao, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/f0okb9g961vhmjo8xb3n1nhp7, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ey3jwa0mbi5zyp94zg87prt65, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/54bet6t7aknjv8omj33d2ymvu, line 6: unreachable code after return statement
+1639930097067	Marionette	INFO	Stopped listening on port 49415
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 19652, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

@@ -2,13 +2,12 @@ from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.keys import Keys
 from time import sleep
+from credentials import email, senha
 
-email = 'stuart-alt@live.com'
-senha = 'Stuart@2812'
 url = 'https://www.linkedin.com/login'
 
 option = Options()
-# option.headless = False
+option.headless = False
 browser = webdriver.Firefox(options=option)
 browser.get(url)
 sleep(3)
@@ -26,4 +25,3 @@ sleep(3)
 busca = browser.find_element_by_id("jobs-search-box-keyword-id-ember40")
 busca.send_keys("Python")
 busca.send_keys(Keys.RETURN)
-
